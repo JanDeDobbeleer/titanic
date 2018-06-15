@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "outDir": "dist",
+        "baseUrl": "."
+    }
+}
